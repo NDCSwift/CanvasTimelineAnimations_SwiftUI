@@ -16,7 +16,7 @@ This project demonstrates three self-contained animated scenes built entirely wi
 
 ## 📺 Watch on YouTube
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://youtube.com/watch?v=PLACEHOLDER)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=3rrv0TbkVR4)
 
 > This project was built for the [NoahDoesCoding YouTube channel](https://www.youtube.com/@NoahDoesCoding).
 
@@ -53,4 +53,4 @@ Set a unique **Bundle Identifier** (e.g. `com.yourname.CanvasTimelineAnimations`
 
 ---
 
-📺 [Watch the guide on YouTube](https://youtube.com/watch?v=PLACEHOLDER)
+📺 [Watch the guide on YouTube](https://www.youtube.com/watch?v=3rrv0TbkVR4)
